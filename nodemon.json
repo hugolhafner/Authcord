@@ -1,0 +1,7 @@
+{
+  "watch": ["dist"],
+  "ext": "js",
+  "ignore": ["src/**/*.spec.ts"],
+  "exec": "yarn dev",
+  "delay": "1000ms"
+}

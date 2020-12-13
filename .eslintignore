@@ -1,0 +1,7 @@
+/coverage
+/dist
+node_modules
+/node_modules.nosync
+*.config.js
+service-account.json
+.eslintrc.js
